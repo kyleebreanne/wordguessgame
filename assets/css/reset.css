@@ -1,0 +1,45 @@
+body {
+    background-image: url(../images/tech-header-article-levis.jpg);
+    background-size: 200%;
+}
+h1{
+    background-color: #fb7e38;
+    font-family: 'Spicy Rice', cursive;
+    margin:auto;
+    text-align:center;
+    padding:60px;
+    border-radius: 25px;
+    border: 2px solid;
+}
+h3 {
+    background-color: #ffff57;
+    border-radius:50%;
+    border: 2px solid;
+    font-family: 'Faster One', cursive; 
+    padding:30px;
+    text-align:center;
+    width: 460px;
+    height:120px
+
+}
+.panel-body {
+    background-color: #b34741;
+    font-family: 'Spicy Rice', cursive;
+    border: 2px solid;
+    border-radius:25px;
+    width:600px;
+    height:80px;
+   margin:auto;
+}
+
+.underscore{
+    background-color: #b34741;
+    font-family: 'Spicy Rice', cursive;
+    border: 2px solid;
+    border-radius:25px;
+    width:600px;
+    height:80px;
+    margin:auto;
+    text-align:center;
+
+}
